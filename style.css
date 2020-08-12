@@ -3,6 +3,10 @@ body {
   background-color: #bae7ff; /* set background color to light blue */
 }
 
-h1 {
-  font-family: 'Sriracha'; /* set h1 fonts to Sriracha */
+h1, h2 {
+  font-family: 'Sriracha'; /* set h1 and h2 fonts to Sriracha */
+}
+
+.answer-button {
+  margin-top: 5px;
 }

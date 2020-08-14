@@ -10,3 +10,16 @@ h1, h2 {
 .answer-button {
   margin-top: 5px;
 }
+
+.question-row {
+  display: none;
+}
+
+#final-row {
+  display: none;
+}
+
+.winner-img {
+  max-width: 300px;
+  display: none;
+}
